@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#E7DFD2"/>
+  <path d="M280 720 L400 280 L520 720" fill="none" stroke="#1E3D34" stroke-width="10"/>
+  <path d="M330 560 H470" stroke="#C4512C" stroke-width="10"/>
+  <text x="400" y="800" text-anchor="middle" font-family="Georgia, serif" font-size="42" fill="#5E574F">Velora</text>
+</svg>
